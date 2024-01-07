@@ -48,3 +48,8 @@ source .venv/bin/activate
 pip install -r requirements.txt
 streamlit run Chatbot.py
 ```
+
+To exit:
+```sh
+deactivate
+```
